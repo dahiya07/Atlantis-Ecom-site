@@ -1,6 +1,6 @@
 # Single page layout Ecom-WebSite
 ## Atlantis
-#### Deployed on Heroku https://chattyyy.herokuapp.com/
+#### Deployed on Heroku https://atlantis-ecomsite.herokuapp.com/
 ##### An Ecom Website Design Template Created Using HTML5, SASS and JavaScript.
 ##### <p align="center"> Working Model Of the Application </p>
 ![Demo](main1.gif)
