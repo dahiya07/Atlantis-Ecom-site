@@ -8,7 +8,7 @@
 ## Requirements
 ###### No external/addditional Requirements . Windows supported Single page Ecom site template. 
 ###### This project append products in carts, dispalys price and total value of individual as well as whole cart and add/remove products from the cart. 
-###### Cart notification is also notified by the top of cart buttons.
+###### Cart notification is also notified at the top of cart buttons.
 ###### To run :- Download all the files/folder and open project.html on Google Chrome.
 
 ## Langauges and Tools Used
