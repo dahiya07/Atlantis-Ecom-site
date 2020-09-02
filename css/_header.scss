@@ -1,0 +1,24 @@
+.header{
+    position: relative;;
+    //width: 100%;
+    .container{
+        position:sticky;
+        display: flex;
+        justify-content:center;
+        flex-wrap: wrap;
+        //margin-top: 20px;
+        padding: 10px;
+        //background-color: black;
+        img{
+            
+            height: auto;
+            max-width: 7em;
+            width: 100%;
+        }
+        h1{
+            color: white;
+            font-size: 2em;
+        }
+    }
+}
+
