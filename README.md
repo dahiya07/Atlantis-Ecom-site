@@ -3,7 +3,7 @@
 #### Deployed on Heroku https://chattyyy.herokuapp.com/
 ##### An Ecom Website Design Template Created Using HTML5, SASS and JavaScript.
 ##### <p align="center"> Working Model Of the Application </p>
-![Demo](main.gif)
+![Demo](main1.gif)
 
 ## Requirements
 ###### No external/addditional Requirements . Windows supported Single page Ecom site template. 
