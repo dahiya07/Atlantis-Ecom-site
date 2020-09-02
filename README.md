@@ -21,4 +21,3 @@
 ###### Vanilla Javascript is used to append products into cart , for displaying updated total cost of cart and for manipulating the DOM. No framework/libraries used
 <img src="Screenshots/Screenshot (107).png"> </img>
 
-##### Thank You ..!
